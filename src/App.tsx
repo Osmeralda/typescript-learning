@@ -1,4 +1,3 @@
-import { prependOnceListener } from 'process';
 import React, { useState } from 'react';
 import './App.css';
 import UusiUutinen from './components/UusiUutinen';
